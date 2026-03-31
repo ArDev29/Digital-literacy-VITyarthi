@@ -18,7 +18,7 @@ Task 2 — Evaluating Online Information
 Learned how to assess whether a source is trustworthy using the SIFT method (Stop, Investigate the Source, Find Better Coverage, Trace Claims). Also covered the difference between misinformation, disinformation, and malinformation — surprisingly relevant for anyone working in AI, where data quality is everything.
 
 Task 3 — Online Privacy & Data Security
-Looked at how much data we generate passively without realising it. Covered practical password hygiene, two-factor authentication, app permission audits, and what a proper privacy settings review looks like. A lot of this was stuff I knew in theory but hadn't actually applied. Google Form: https://docs.google.com/forms/d/e/1FAIpQLSc-oI8xK1rYTdn8yORSmZzXePhoy5wqK9ghmIT2mGBSbEIsFw/viewform?usp=publish-editor
+Looked at how much data we generate passively without realising it. Covered practical password hygiene, two-factor authentication, app permission audits, and what a proper privacy settings review looks like. A lot of this was stuff I knew in theory but hadn't actually applied. Google Form: https://docs.google.com/forms/d/e/1FAIpQLSc0bZuyWlHTl8YfWU10zzc51O9Ck77pBAQK_C2GDDFHnRfzdg/viewform?usp=dialog
 
 Task 4 — Email Etiquettes & Social Media Responsibility
 Part A — Wrote two professional emails: one requesting a deadline extension from a professor, another expressing interest in a summer internship at Reliance. Both follow correct email etiquette — formal tone, specific details, clear ask, polite close.
