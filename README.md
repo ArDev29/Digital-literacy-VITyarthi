@@ -1,4 +1,5 @@
 VITyarthi Project — Digital Literacy & Communication
+
 Arhat Devendra Ingle · Roll No: 25BCE10507 · B.Tech CSE (AI & ML), 1st Year · VIT Bhopal University
 
 This repository holds all the work I produced for the VITyarthi Digital Literacy & Communication program. The program ran across five tasks, each building on the last — starting from what digital literacy actually means and ending with a fairly eye-opening look at how cybercrime works in practice. I've tried to document everything clearly here so it's easy to navigate.
